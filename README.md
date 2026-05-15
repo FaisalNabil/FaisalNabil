@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalnabil" alt="faisalnabil" /></a> </p>
 
-- 🔭 I’m currently working on **Q3 EInvoice Portal**
+- 🔭 I’m currently working on **Q3 EInvoice Singapore Peppol**
 
 - 🌱 I’m currently learning **Node.js**
 
